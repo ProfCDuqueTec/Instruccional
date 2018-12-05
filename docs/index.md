@@ -6,8 +6,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rL8X2mlNHPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*[Otra página](https://profcduquetec.github.io/PruebaGitHubInstruccional/otrapagina.md)
+*[Otra página](https://profcduquetec.github.io/PruebaGitHubInstruccional/otrapagina)
 
-*[Presentacion](https://profcduquetec.github.io/Instruccional/PruebaGitHubpresentacion.html)
+*[Presentacion](https://profcduquetec.github.io/Instruccional/PruebaGitHub/presentacion)
 
 #### Fin
