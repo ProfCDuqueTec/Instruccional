@@ -1,4 +1,4 @@
 #Otra pagina
 Llegamos aqui desde la inicial
 
-[Regresar](index.md)
+[Regresar](https://profcduquetec.github.io/Instruccional/docs/index.md)
