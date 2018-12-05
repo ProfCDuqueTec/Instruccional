@@ -8,7 +8,7 @@ Es una prueba para usar GitHub instruccional
 * Enlace: [MiGitHub](https://github.com/ProfCDuqueTec)
 * Formula: <img src="http://www.sciweavers.org/tex2img.php?eq=%20%20%5Cprod_a%5Eb%20x%20%5Csqrt%7B%20%5Calpha%20%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="  \prod_a^b x \sqrt{ \alpha } " width="68" height="50" />
 
-```
+```python
 import java.util.Scanner;
 import java.util.Arrays;
 
