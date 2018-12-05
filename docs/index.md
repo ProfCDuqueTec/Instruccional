@@ -8,6 +8,6 @@
 
 *[Otra página](https://profcduquetec.github.io/PruebaGitHubInstruccional/otrapagina)
 
-*[Presentacion](https://profcduquetec.github.io/Instruccional/PruebaGitHub/presentacion)
+*[Presentacion](https://profcduquetec.github.io/PruebaGitHub/presentacion)
 
 #### Fin
